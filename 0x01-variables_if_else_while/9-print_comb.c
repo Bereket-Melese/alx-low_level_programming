@@ -8,12 +8,11 @@
  */
 int main(void)
 {
-	int c = 0;
+	int c;
 
-	while (c < 10)
+	for (c = 0; c < 10; c++)
 	{
 		putchar(c);
-		c++;
 		if (c != 9)
 		{
 			putchar(',');
