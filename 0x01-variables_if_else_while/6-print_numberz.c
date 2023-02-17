@@ -11,7 +11,7 @@ int main(void)
 
 	while (c <= 10)
 	{
-		putchar(c);
+		printf(c);
 		c++;
 	}
 	putchar('\n');
