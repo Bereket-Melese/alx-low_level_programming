@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdlib.h>
 /**
  * main - main block
  * Description: A program that prints the alphabet in lowercase, 
